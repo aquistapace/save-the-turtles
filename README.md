@@ -54,7 +54,6 @@
 ## 🎨 Layout
 - O projeto desenvolvido possui Layout Responsivo.
 ### Web
-- Página de Login , Home , Perfil do Dragão e Not Found
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="login" title="Página de Login" src="https://github.com/aquistapace/save-the-turtles/blob/main/design_blue.png" width="500px"><img alt="login" title="Página de Login" src="https://github.com/aquistapace/save-the-turtles/blob/main/design_orange.png" width="500px">
 <p>
