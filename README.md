@@ -42,10 +42,13 @@
 ---
 
 ## 📺 Demo
+
 <p align="center" style="display: flex; align-items: flex-start; justify-content: left;">
   <img alt="login" title="Página de Login" src="https://github.com/aquistapace/save-the-turtles/blob/main/turtles.gif" width="600px">
-<p>
+</p>
+	
 ---
+	
 ## ⚙️ Funcionalidades
 
 - [x] Os usuários podem escolher entre o tema azul ou laranja
