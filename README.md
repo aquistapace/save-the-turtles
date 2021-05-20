@@ -20,7 +20,7 @@
 </h1>
 
 <h4 align="center"> 
-	 ⛅ Save The Turtles
+	🐢 Save The Turtles
 </h4>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 ## 💻 Sobre o projeto
 
-⛅ Save The Turtles é uma Landing page básico, possui um design simples e intuitivo.
+🐢 Save The Turtles é uma Landing page básico, possui um design simples e intuitivo.
 
 
 ---
